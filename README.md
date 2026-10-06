@@ -19,7 +19,7 @@
 
 - 🔋 **본업**: 이차전지·전고체전지 연구, 실험 데이터 정리와 분석
 - 🤖 **취미이자 특기**: AI 에이전트로 일을 통째로 자동화하기
-- ✍️ **운영 중**: 경제·배터리·AI 소식을 다루는 블로그 (매일 자동 발행 파이프라인)
+- ✍️ **운영 중**: 경제·배터리·AI 소식을 다루는 [블로그](https://blog.naver.com/dh013208) (매일 자동 발행 파이프라인)
 - 📚 **공부 중**: AI 학습 로드맵을 직접 정리해 남에게 가르치는 교재로 만드는 중
 - 🎬 **요즘 빠진 것**: 직접 찍은 영상을 AI로 편집하기
 
@@ -98,6 +98,8 @@
 <div align="center">
 
 **🐶 "생각나면 만들어 본다. 귀찮으면 자동화한다."**
+
+<a href="https://blog.naver.com/dh013208"><img src="https://img.shields.io/badge/Hoya's_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Hoya's Blog"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer" width="100%" />
 
