@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=230&section=header&text=Hoya%20Lab&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Battery%20Researcher%20%C2%B7%20AI%20Automation%20Tinkerer&descAlignY=60&descSize=20&animation=fadeIn" width="100%" />
 
+<img src="https://komarev.com/ghpvc/?username=Sun3535&label=Visitors&color=86a8e7&style=for-the-badge" alt="visitors" />
+
 <a href="https://github.com/Sun3535">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7F7FD5&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Hoya+%F0%9F%90%B6;I+study+batteries+by+day+%F0%9F%94%8B;I+build+AI+tools+by+night+%F0%9F%A4%96;Claude+is+my+pair-programmer+%E2%9C%A8" alt="Typing SVG" />
 </a>
@@ -72,6 +74,24 @@
 🎬 video     ▓▓▓▓▓▓▓▓░░░░░░░░░░░░  just started, learning fast
 ☁️ cloud     ▓▓▓░░░░░░░░░░░░░░░░░  new playground unlocked
 ```
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sun3535&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=7F7FD5&icon_color=86A8E7&text_color=8B949E&ring_color=91EAE4" />
+<img height="170" src="https://streak-stats.demolab.com/?user=Sun3535&hide_border=true&background=00000000&ring=7F7FD5&fire=86A8E7&currStreakLabel=7F7FD5&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sun3535/Sun3535/output/github-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sun3535/Sun3535/output/github-snake.svg" />
+</picture>
+
+</div>
 
 <br/>
 
